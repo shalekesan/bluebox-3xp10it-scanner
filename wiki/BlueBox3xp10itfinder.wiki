@@ -2,9 +2,9 @@
 
 = Introduction =
 
-How to test APK using BlueBox3xp10!tfinder.py?
+How to test APK using BlueBox3xp10itfinder.py?
 
 
 = Details =
 
->BlueBox3xp10!tfinder.py <apk_file_path>
+>BlueBox3xp10itfinder.py<space><apk_file_path>
